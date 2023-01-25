@@ -1,0 +1,25 @@
+.li{
+    text-decoration: line-through;
+    
+}
+.para2{
+    text-decoration: underline;
+}
+.para3{
+    font-style: inherit;
+}
+.ul{
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    color: crimson;
+    font-weight: 800;
+}
+a{
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+}
+ol{
+    font-weight: 1000;
+    style="color: brown;"
+}
